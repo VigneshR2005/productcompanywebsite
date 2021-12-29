@@ -468,7 +468,7 @@ body {
 ## OUTPUT:
 
 ### HomePage:
-![output](.\companywebsite\static\img\homepage.png)
+![output](.\companywebsite\static\img\homepage.PNG)
 ### ProductPage:
 ![output](.\companywebsite\static\img\productpage.png)
 ### PeoplePage:
