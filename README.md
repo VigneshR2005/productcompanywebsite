@@ -470,11 +470,11 @@ body {
 ### HomePage:
 ![output](./companywebsite/static/img/homepage.png)
 ### ProductPage:
-![output](.\companywebsite\static\img\productpage.png)
+![output](./companywebsite/static/img/productpage.png)
 ### PeoplePage:
-![output](.\companywebsite\static\img\peoplepage.png)
+![output](./companywebsite/static/img/peoplepage.png)
 ### ContactPage:
-![output](.\companywebsite\static\img\contactpage.png)
+![output](./companywebsite/static/img/contactpage.png)
 
 
 ## Result:
