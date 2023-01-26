@@ -42,14 +42,14 @@ Publish the website in the given URL.
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>SOFTWARE ISLAND</title>
+    <title>BLACK SQUAD</title>
     <link rel="stylesheet" href="./css/layout.css" />
     <link rel="icon" href="./img/icon2.png" type="image/x-icon" />
   </head>
 
   <body>
     <div class="container">
-      <div class="banner">SOFTWARE ISLAND</div>
+      <div class="banner">BLACK SQUAD</div>
       <div class="menu">
         <div class="menuitemselected"><a href="/static/home.html">Home</a></div>
         <div class="menuitem"><a href="/static/products.html">Products</a></div>
@@ -61,7 +61,7 @@ Publish the website in the given URL.
           <h1>About Us</h1>
           <img src="./img/image.png" alt="Image" />
           <div class="contenttext">
-            Welcome to SOFTWARE ISLAND!
+            Welcome to BLACK SQUAD!
              There are many types of software that people and businesses use for purposes like 
              organization, entertainment and file management on a variety of devices,including
              computers,tablets and mobile phones.If you developed software that can benefit people 
@@ -81,7 +81,7 @@ Publish the website in the given URL.
         </div>
       </div>
       <div class="footer">
-        Copyright &#169; 2021 EDUSOFT PRIVATE LIMITED, Developed by PAVIZHI.B
+        Copyright &#169; 2023 EDUSOFT PRIVATE LIMITED, Developed by ADHITHYA M R
       </div>
     </div>
   </body>
@@ -92,14 +92,14 @@ PRODUCT PAGE:
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>SOFTWARE ISLAND</title>
+    <title>BLACK SQUAD</title>
     <link rel="stylesheet" href="./css/layout.css" />
     <link rel="icon" href="./img/icon2.png" type="image/x-icon" />
   </head>
 
   <body>
     <div class="container">
-      <div class="banner">SOFTWARE ISLAND</div>
+      <div class="banner">BLACK SQUAD</div>
       <div class="menu">
         <div class="menuitem"><a href="/static/home.html">Home</a></div>
         <div class="menuitemselected"><a href="/static/products.html">Products</a></div>  
@@ -209,7 +209,7 @@ PRODUCT PAGE:
   </div>        
   </div>
     <div class="footer">
-      Copyright &#169; 2021 EDUSOFT PRIVATE LIMITED, Developed by PAVIZHI.B
+      Copyright &#169; 2023 EDUSOFT PRIVATE LIMITED, Developed by ADHITHYA M R
     </div>
   </div>
  </body>
@@ -220,14 +220,14 @@ PRODUCT PAGE:
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>SOFTWARE ISLAND</title>
+    <title>BLACK SQUAD</title>
     <link rel="stylesheet" href="./css/layout.css" />
     <link rel="icon" href="./img/icon2.png" type="image/x-icon" />
   </head>
 
   <body>
     <div class="container">
-      <div class="banner">SOFTWARE ISLAND</div>
+      <div class="banner">BLACK SQUAD</div>
       <div class="menu">
         <div class="menuitem"><a href="/static/home.html">Home</a></div>
         <div class="menuitem"><a href="/static/products.html">Products</a></div>  
@@ -256,28 +256,28 @@ PRODUCT PAGE:
         <div class="itemimage">
         <img src="/static/img/SUNDAR PICHAI.png"  alt="product image">
       </div>
-         <div class="itemname">Assistant class <br>(SUNDAR PICHAI)</div>
+         <div class="itemname">Assistant class <br>(BS VINO)</div>
       </div>
       <div class="productitem"> 
         <div class="itemimage">
         <img src="/static/img/SIMON WILLISON.png"  alt="product image">
       </div>
-         <div class="itemname">Product Department Head <br> (SIMON WILLISON))</div>
+         <div class="itemname">Product Department Head <br> (BS KOMBAN))</div>
       </div>
       <div class="productitem"> 
         <div class="itemimage">
         <img src="/static/img/J.R.SMITH RESIGNS.png"  alt="product image">
       </div>
-         <div class="itemname">Deliver Department Head <br>(J.R.SMITH RESIGNS)</div>
+         <div class="itemname">Deliver Department Head <br>(BS JOTHISH)</div>
       </div>
       <div class="productitem"> 
         <div class="itemimage">
         <img src="/static/img/THOMAS REARDON.png"  alt="product image">
       </div>
-         <div class="itemname">Chennai Branch Head <br> (THOMAS REARDON)</div>
+         <div class="itemname">Chennai Branch Head <br> (BS VISHAL)</div>
       </div>
       <div class="footer">
-        Copyright &#169; 2021 EDUSOFT PRIVATE LIMITED, Developed by PAVIZHI.B
+        Copyright &#169; 2023 EDUSOFT PRIVATE LIMITED, Developed by ADHITHYA M R
       </div>
     </div>
   </body>
@@ -288,14 +288,14 @@ PRODUCT PAGE:
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>SOFTWARE ISLAND</title>
+    <title>BLACK SQUAD</title>
     <link rel="stylesheet" href="./css/layout.css" />
     <link rel="icon" href="./img/icon.png" type="image/x-icon" />
   </head>
 
   <body>
     <div class="container">
-      <div class="banner">SOFTWARE ISLAND</div>
+      <div class="banner">BLACK SQUAD</div>
       <div class="menu">
         <div class="menuitem"><a href="/static/home.html">Home</a></div>
         <div class="menuitem"><a href="/static/products.html">Products</a></div>
@@ -306,7 +306,7 @@ PRODUCT PAGE:
           <ul>
               <li>Address:CHENNAI<br></li>
               <li>Contact:975321460;<br></li>
-              <li>pavizhi523@gmail.com<br></li>
+              <li>adhi@gmail.com<br></li>
               <br>VERIFIED*
           </ul>    
         </div>
@@ -314,11 +314,11 @@ PRODUCT PAGE:
     </div>
     </div>
       <div class="footer">
-        Copyright &#169; 2021 SOFTWARE ISLAND DEVELOPED BY PAVIZHI.B
+        Copyright &#169; 2023 SOFTWARE ISLAND DEVELOPED BY ADHITHYA MR
       </div>
     </div>
   </body>
-</html> 
+</html>
 ~~~
 ### CSS Layout:
 ~~~
