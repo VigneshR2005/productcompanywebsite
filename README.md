@@ -81,7 +81,7 @@ Publish the website in the given URL.
         </div>
       </div>
       <div class="footer">
-        Copyright &#169; 2023 EDUSOFT PRIVATE LIMITED, Developed by ADHITHYA M R
+        Copyright &#169; 2023 EDUSOFT PRIVATE LIMITED, Developed by R.Vignesh
       </div>
     </div>
   </body>
@@ -209,7 +209,7 @@ PRODUCT PAGE:
   </div>        
   </div>
     <div class="footer">
-      Copyright &#169; 2023 EDUSOFT PRIVATE LIMITED, Developed by ADHITHYA M R
+      Copyright &#169; 2023 EDUSOFT PRIVATE LIMITED, Developed by R.Vignesh
     </div>
   </div>
  </body>
@@ -262,22 +262,22 @@ PRODUCT PAGE:
         <div class="itemimage">
         <img src="/static/img/SIMON WILLISON.png"  alt="product image">
       </div>
-         <div class="itemname">Product Department Head <br> (BS KOMBAN))</div>
+         <div class="itemname">Product Department Head <br> (BS RAM))</div>
       </div>
       <div class="productitem"> 
         <div class="itemimage">
         <img src="/static/img/J.R.SMITH RESIGNS.png"  alt="product image">
       </div>
-         <div class="itemname">Deliver Department Head <br>(BS JOTHISH)</div>
+         <div class="itemname">Deliver Department Head <br>(BS GEORGE)</div>
       </div>
       <div class="productitem"> 
         <div class="itemimage">
         <img src="/static/img/THOMAS REARDON.png"  alt="product image">
       </div>
-         <div class="itemname">Chennai Branch Head <br> (BS VISHAL)</div>
+         <div class="itemname">Chennai Branch Head <br> (BS SAKTHI)</div>
       </div>
       <div class="footer">
-        Copyright &#169; 2023 EDUSOFT PRIVATE LIMITED, Developed by ADHITHYA M R
+        Copyright &#169; 2023 EDUSOFT PRIVATE LIMITED, Developed by R.Vignesh
       </div>
     </div>
   </body>
@@ -314,7 +314,7 @@ PRODUCT PAGE:
     </div>
     </div>
       <div class="footer">
-        Copyright &#169; 2023 SOFTWARE ISLAND DEVELOPED BY ADHITHYA MR
+        Copyright &#169; 2023 SOFTWARE ISLAND DEVELOPED BY R.Vignesh
       </div>
     </div>
   </body>
